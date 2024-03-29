@@ -3,7 +3,7 @@
 
 Welcome to the AI Policy Guidelines repository. This repository is a platform where thoughts, insights, and drafted policies, guidelines, and frameworks are published on the ethical and effective use of AI in organizations. These documents are designed to assist organizations in implementing and managing generative artificial intelligence (Generative AI).
 
-Everyone is invited to evaluate, critique, and participate in the discussion. These are just my thoughts and I'm open to other ideas.
+Everyone is invited to evaluate, critique, and participate in the discussion - other ideas are welcome.
 
 The repository contains the following documents:
 
@@ -16,7 +16,7 @@ This section explores how AI can be ethically integrated in the workplace. The f
 
 ## Providing Feedback
 
-I encourage industry peers to provide feedback and contribute to the dialogue. Here are a few ways you can provide feedback:
+Industry peers are encouraged to provide feedback - and to contribute to the dialogue. Here are a few ways you can provide feedback:
 
 1. **GitHub Discussion Board**: Join the conversation on our [GitHub Discussion Board](https://github.com/ryanmio/AI-Ethics-and-Policy/discussions). This is a great place to share your thoughts and engage with the community.
 
