@@ -202,17 +202,5 @@ AI hallucinations (false statements made by AI) can lead to costly mistakes. Org
 | Better | Require employees to review all products of AI for accuracy. This includes manually cross-verifying all assertions, assumptions, etc. |
 | Best | Develop a rigorous verification system involving multiple employees and automated processes. This system should include feedback loops to improve AI accuracy over time. Provide regular accuracy reports to promote accountability and continual improvement. |
 
-## 19. Guidance Relating to AI Delivery Channels
-
-| Policy Level | Description |
-|--------------|-------------|
-| Good | Single channel for implementing AI solutions - in the case of ChatGPT this would be a browser based (subscription). This basically caters to a set targeted AI use cases.|
-| Better | Two channels of AI implementation - Guidance relating to browser and container solutions amd API based solutions|
-| Best | Broader selection of delivrey channels - covering moreof the wider set of use cases m mean a briader set of use cases can be implementedConsiderationis given to on-premise training and implemenation of Generative AI models as wella s Guidance relating to cloud and on premise solutions browser and container solutions amd API based solutions |
-
 ---
-
-This includes implementing an on-premise archihtecture for a sandbox/testing environment or for enabling a  production solution on a local machine, that is use case specific - with bespoke data privacy/security requirments.
-
-
 
