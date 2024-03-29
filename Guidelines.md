@@ -90,7 +90,8 @@ The ethical use of AI, especially Generative AI, requires organizations to ensur
 ---
 
 ## # Data Security and Privacy
-As employees incorporate AI tools into their workflows, these tools often require access to significant amounts of information, some of which might be sensitive or confidential. Inadvertently granting an AI tool or add-on access could potentially expose an organization to data breaches or privacy violations. It's essential for organizations to be cognizant of the access they are granting to these tools and to establish rigorous guidelines and monitoring systems to protect their data.
+
+As employees incorporate AI tools into their workflows, these tools often require access to significant amounts of information, some of which might be sensitive or confidential. Inadvertently granting an AI tool or add-on access could potentially expose an organization to data breaches or privacy violations. It's essential for organizations to be cognizant of the access they are granting to these tools and to establish rigorous guidelines and monitoring systems to protect their data. Organisations also need to be aware of the channels and/or architectures being used to implement their AI solutions - as this can impact on data security and privacy in production.|
 
 ## 7. Data Shared with AI
 
@@ -111,6 +112,7 @@ As employees incorporate AI tools into their workflows, these tools often requir
 ---
 
 ## # AI Tools and Training
+
 Misusing AI tools can lead to serious issues, including privacy breaches and data leaks. Organizations should maintain oversight and control access to AI tool and invest in AI training and development.
 
 ## 9. AI Training and Development
@@ -127,7 +129,7 @@ Misusing AI tools can lead to serious issues, including privacy breaches and dat
 |--------------|-------------|
 | Good | Experiment with free AI tools such as ChatGPT, free image generation tools, and look at new AI features in your existing tech stack. Use tools like Canva and AppSheets. |
 | Better | Experiment with ChatGPT+, Midjourney, freemium browser plugins like Compose.ai, and look at new AI features in your existing tech stack. Utilize integrations/connecting up (Zapier) and experiment with APIs (whisper). |
-| Best | Experiment with OpenAI APIs and Github Co-pilot. Consider setting up experimental projects, like building a tech stack that includes an LLM on a cloud provider, or use transfer learning to make domain-specific bots (if you have enough training data). |
+| Best | Experiment with OpenAI APIs and Github Co-pilot. Consider setting up experimental projects, like building a tech stack that includes an LLM on a cloud provider, or use transfer learning to make domain-specific bots (if you have enough training data).|
 
 ## 11. Using Company-Provided AI Tools
 
@@ -135,7 +137,8 @@ Misusing AI tools can lead to serious issues, including privacy breaches and dat
 |--------------|-------------|
 | Good | Encourage employees to use company-provided AI accounts, such as a ChatGPT account, for any work-related AI tasks. Make it clear that these accounts are for business use only, and personal usage should be minimized or avoided entirely. |
 | Better | Require employees to use company-provided AI accounts for all work-related AI tasks. Establish guidelines around what constitutes appropriate use of these accounts and provide regular training to ensure employees understand these guidelines. |
-| Best | Establish a policy that all work-related AI tasks must be conducted using company-provided AI accounts. Implement monitoring and auditing mechanisms to review usage and enforce the policy. Offer regular training sessions and provide a channel for employees to ask questions or report potential misuse. |
+| Best | Establish a policy that all work-related AI tasks must be conducted using company-provided AI accounts. Implement monitoring and auditing mechanisms to review usage and enforce the policy. Offer regular training sessions and provide a channel for employees to ask questions or report potential misuse - including anonymous channels if necessary. |
+
 
 ## 12. Access Control to AI Tools
 
@@ -179,9 +182,8 @@ Misusing AI tools can lead to serious issues, including privacy breaches and dat
 | Better | Conduct formal reviews of AI policies at defined intervals (e.g., annually). |
 | Best | Establish a dedicated team or role for continuously monitoring advancements in AI, and updating AI policies to reflect changes in technology, regulations, and societal expectations. |
 
----
-
 ## # Special Topics
+
 AI hallucinations (false statements made by AI) can lead to costly mistakes. Organizations should be aware of these issues and have strategies in place to handle them.
 
 ## 17. Avoiding LLM Hallucinations
@@ -199,3 +201,18 @@ AI hallucinations (false statements made by AI) can lead to costly mistakes. Org
 | Good | Encourage employees to verify the accuracy of AI outputs, cross-referencing any factual claims with reliable sources. |
 | Better | Require employees to review all products of AI for accuracy. This includes manually cross-verifying all assertions, assumptions, etc. |
 | Best | Develop a rigorous verification system involving multiple employees and automated processes. This system should include feedback loops to improve AI accuracy over time. Provide regular accuracy reports to promote accountability and continual improvement. |
+
+## 19. Guidance Relating to AI Delivery Channels
+
+| Policy Level | Description |
+|--------------|-------------|
+| Good | Single channel for implementing AI solutions - in the case of ChatGPT this would be a browser based (subscription). This basically caters to a set targeted AI use cases.|
+| Better | Two channels of AI implementation - Guidance relating to browser and container solutions amd API based solutions|
+| Best | Broader selection of delivrey channels - covering moreof the wider set of use cases m mean a briader set of use cases can be implementedConsiderationis given to on-premise training and implemenation of Generative AI models as wella s Guidance relating to cloud and on premise solutions browser and container solutions amd API based solutions |
+
+---
+
+This includes implementing an on-premise archihtecture for a sandbox/testing environment or for enabling a  production solution on a local machine, that is use case specific - with bespoke data privacy/security requirments.
+
+
+
