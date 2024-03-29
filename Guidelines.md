@@ -91,7 +91,7 @@ The ethical use of AI, especially Generative AI, requires organizations to ensur
 
 ## # Data Security and Privacy
 
-As employees incorporate AI tools into their workflows, these tools often require access to significant amounts of information, some of which might be sensitive or confidential. Inadvertently granting an AI tool or add-on access could potentially expose an organization to data breaches or privacy violations. It's essential for organizations to be cognizant of the access they are granting to these tools and to establish rigorous guidelines and monitoring systems to protect their data. Organisations also need to be aware of the channels and/or architectures being used to implement their AI solutions - as this can impact on data security and privacy in production.|
+As employees incorporate AI tools into their workflows, these tools often require access to significant amounts of information, some of which might be sensitive or confidential. Inadvertently granting an AI tool or add-on access could potentially expose an organization to data breaches or privacy violations. It's essential for organizations to be cognizant of the access they are granting to these tools and to establish rigorous guidelines and monitoring systems to protect their data. Organisations also need to be aware of the channels and/or architectures being used to implement their AI solutions - as this can impact on data security and privacy in production.
 
 ## 7. Data Shared with AI
 
